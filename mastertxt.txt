@@ -1,1 +1,2 @@
 First insert, Second, 3
+Copyright 2019 git training
