@@ -1,4 +1,4 @@
-### Well hello there!
+### Well hello there! blah blah master
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
@@ -8,7 +8,7 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
-### Copyright 
+### Copyright / Another line of conflict. Master branch. Conflicting with realwork 
 
 2019 Git.Training
 
@@ -16,6 +16,6 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 2019 Git.Training
 
-### Copyright .2.1
+### Copyright .2.1 master brach developer line. Conflicting with realwork developer one
 
 2019 Git.Training
