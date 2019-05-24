@@ -11,3 +11,7 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 ### Copyright 
 
 2019 Git.Training
+
+### Copyright .2
+
+2019 Git.Training
