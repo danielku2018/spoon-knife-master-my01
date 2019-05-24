@@ -1,4 +1,4 @@
-### Well hello there! blah blah master
+### Well hello there! blah blah master ; Add from merge tool
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
@@ -8,7 +8,7 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
-### Copyright / Another line of conflict. Master branch. Conflicting with realwork 
+### Copyright ;Another add from mergetool
 
 2019 Git.Training
 
