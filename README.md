@@ -19,3 +19,5 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 ### Copyright .2.1 master brach developer line. Conflicting with realwork developer one
 
 2019 Git.Training
+
+Adding a line for rebasing example
